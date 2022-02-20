@@ -1,0 +1,61 @@
+numpy
+pandas
+seaborn
+math
+re
+
+sklearn (neighbors, model_selection, metrics, feature_selection, ensemble, feature_extraction, tree, svm, preprocessing)
+sklearn.metrics (confusion_matrix, plot_confusion_matrix, accuracy_score)
+sklearn.neighbors (KNeighborsClassifier)
+sklearn.model_selection (GridSearchCV, train_test_split)
+sklearn.feature_selection (VarianceThreshold, RFECV)
+sklearn.ensemble (RandomForestClassifier)
+sklearn.preprocessing (MinMaxScaler, RobustScaler, StandardScaler)
+sklearn.tree (DecisionTreeClassifier)
+sklearn.svm  (SVR)
+sklearn.feature_extraction.text (CountVectorizer)
+
+matplotlib (pyplot)
+matplotlib.pyplot (figure)
+
+pytrends (dailydata)
+
+scipy.stats.stats (pearsonr)
+
+datetime (date, datetime, timedelta)
+
+nltk (tokenize, sentiment.vader, corpus, stem.porter)
+nltk.tokenize (word_tokenize)
+nltk.sentiment.vader (SentimentIntensityAnalyzer)
+nltk.corpus(stopwords)
+nltk.stem.porter (PorterStemmer)
+nltk.download('vader_lexicon')
+nltk.download('punkt')
+nltk.download('stopwords')
+
+snscrape.modules.twitter 
+autocorrect (Speller)
+
+mxltend (feature_selection, regressor)
+mlxtend.feature_selection (SequentialFeatureSelector)
+mlxtend.regressor (LinearRegression)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
